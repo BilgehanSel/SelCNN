@@ -246,3 +246,4 @@ void CNN::Test()
 	UpdateLR(&learning_rate, batch_size);
 
 }
+
