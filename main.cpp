@@ -40,6 +40,7 @@ int main()
 	// 3. give values to necessary variables like batch_size or channel_count of the input image
 	//
 	// here as an example cifar-10 dataset is used.
+	// download dataset https://www.cs.toronto.edu/~kriz/cifar.html, and put the files into a folder named 'cifar' relative to project's folder.
 	// filling the values of train_data, test_data, train_labels, test_labels are filled by functions in ReadCifar10.hpp file...
 
 
